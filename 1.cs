@@ -5,9 +5,9 @@ class name
 {
 public static void Main(string[] args)
 {
-	//string name=args[0];
+	string name=args[0];
 	Console.WriteLine("hello "+name+"!!  let us work");
-	Console.Write("******");
+	Console.WriteLine("******");
 	
 }
 }
