@@ -6,7 +6,8 @@ class name
 public static void Main(string[] args)
 {
 	string name=args[0];
-	Console.WriteLine("hello "+name+"  lets us work");
+	Console.WriteLine("hello "+name+!!  let us work");
+	Console.Write("******");
 	
 }
 }
